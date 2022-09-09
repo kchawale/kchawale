@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kchawale
+- 👋 Hi, I’m Madhuri
 - 👀 I’m interested in exploring new learnings
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects on data science
